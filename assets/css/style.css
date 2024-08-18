@@ -1,0 +1,23 @@
+
+nav{
+    box-shadow: 3px 3px 30px #dfb4b4;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.mobile-ul li a{
+  padding: 10px 0;
+  display: inline-block;
+  margin: 2px 0;
+}
+
+.card-body{
+  text-align: justify;
+}
+
+.card-shadow{
+    border: 1px solid blanchedalmond;
+}
